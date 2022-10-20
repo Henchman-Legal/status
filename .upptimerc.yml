@@ -1,5 +1,5 @@
 # Change these first
-owner: Henchman-Legal # Your GitHub organization or username, where this repository lives
+owner: g-jgreen
 repo: status # The name of this repository
 
 sites:
@@ -12,19 +12,19 @@ sites:
   - name: Search API
     url: https://api-search.henchman.io/health
     method: GET
-    assignees: 
+    assignees:
       - g-jgreen
       - wtr7
   - name: Dashboard
     url: https://dashboard.henchman.io/
     method: GET
-    assignees: 
+    assignees:
       - g-jgreen
       - wtr7
   - name: Dashboard API
     url: https://api-dashboard.henchman.io/health
     method: GET
-    assignees: 
+    assignees:
       - g-jgreen
       - wtr7
 
