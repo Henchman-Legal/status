@@ -30,6 +30,7 @@ sites:
 
 status-website:
   # cname: status.henchman.io
+  apiBaseUrl: https://api.github.com
   baseUrl: /status
   logoUrl: https://henchman.io/uploads/HM-SVG-High-logo-white-1.svg
   name: Henchman status page
