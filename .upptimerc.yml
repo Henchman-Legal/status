@@ -5,12 +5,14 @@ repo: status # The name of this repository
 sites:
   - name: Add-in
     url: https://add-in.henchman.io
+    icon: https://henchman.io/favicon.ico
     method: GET
     assignees: 
       - g-jgreen
       - wtr7
   - name: Search API
     url: https://api-search.henchman.io/health
+    icon: https://henchman.io/favicon.ico
     method: GET
     assignees:
       - g-jgreen
@@ -23,6 +25,7 @@ sites:
       - wtr7
   - name: Dashboard API
     url: https://api-dashboard.henchman.io/health
+    icon: https://henchman.io/favicon.ico
     method: GET
     assignees:
       - g-jgreen
