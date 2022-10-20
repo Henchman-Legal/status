@@ -43,7 +43,7 @@ status-website:
       href: /
     - title: Henchman website
       href: https://henchman.io
-  theme: light
+  theme: dark
 
 workflowSchedule:
   graphs: "0 0 * * *"
