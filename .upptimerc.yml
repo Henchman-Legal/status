@@ -36,14 +36,14 @@ status-website:
   baseUrl: /status
   logoUrl: https://henchman.io/uploads/HM-SVG-High-logo-white-1.svg
   name: ''
-  introTitle: 'Status page'
+  introTitle: ''
   introMessage: ''
   navbar:
     - title: Status
       href: /
     - title: Henchman website
       href: https://henchman.io
-  theme: dark
+  theme: ocean
 
 workflowSchedule:
   graphs: "0 0 * * *"
@@ -53,5 +53,8 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "*/5 * * * *"
+
+i18n:
+  footer: ''
 
 user-agent: g-jgreen ## Maybe we need to create a dedicated Henchman user account
