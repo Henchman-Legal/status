@@ -32,9 +32,9 @@ status-website:
   # cname: status.henchman.io
   baseUrl: /status
   logoUrl: https://henchman.io/uploads/HM-SVG-High-logo-white-1.svg
-  name: Henchman status page
-  introTitle: "**Henchman** is the fastest contract drafting experience ever made"
-  introMessage: "Welcome to the Henchman status page"
+  name: ''
+  introTitle: 'Status page'
+  introMessage: ''
   navbar:
     - title: Status
       href: /
