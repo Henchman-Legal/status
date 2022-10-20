@@ -32,15 +32,12 @@ sites:
       - wtr7
 
 status-website:
-  # cname: status.henchman.io
-  baseUrl: /status
+  cname: status.henchman.io
+  # baseUrl: /status
   logoUrl: https://henchman.io/uploads/HM-SVG-High-logo-white-1.svg
   name: ''
   introTitle: ''
   introMessage: ''
-  navbar:
-    - title: Status
-      href: /status
   theme: ocean
 
 workflowSchedule:
