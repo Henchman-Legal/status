@@ -40,9 +40,7 @@ status-website:
   introMessage: ''
   navbar:
     - title: Status
-      href: /
-    - title: Henchman website
-      href: https://henchman.io
+      href: /status
   theme: ocean
 
 workflowSchedule:
