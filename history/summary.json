@@ -22,7 +22,7 @@
     "url": "https://api-search.henchman.io/health",
     "icon": "https://henchman.io/favicon.ico",
     "slug": "search-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 451,
     "timeMonth": 455,
     "timeYear": 454,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-13": 0
+    }
   },
   {
     "name": "Dashboard",
