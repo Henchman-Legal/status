@@ -42,19 +42,19 @@
     "url": "https://dashboard.henchman.io/",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.henchman.io.ico",
     "slug": "dashboard",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 314,
-    "timeDay": 199,
-    "timeWeek": 279,
-    "timeMonth": 312,
+    "timeDay": 232,
+    "timeWeek": 277,
+    "timeMonth": 311,
     "timeYear": 314,
     "dailyMinutesDown": {
-      "2023-04-07": 0
+      "2023-04-07": 10
     }
   },
   {
