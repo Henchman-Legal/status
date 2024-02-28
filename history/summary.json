@@ -22,18 +22,20 @@
     "url": "https://api-search.henchman.io/health",
     "icon": "https://henchman.io/favicon.ico",
     "slug": "search-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 420,
-    "timeDay": 257,
-    "timeWeek": 393,
-    "timeMonth": 384,
-    "timeYear": 404,
-    "dailyMinutesDown": {}
+    "time": 421,
+    "timeDay": 424,
+    "timeWeek": 418,
+    "timeMonth": 390,
+    "timeYear": 405,
+    "dailyMinutesDown": {
+      "2024-02-28": 0
+    }
   },
   {
     "name": "Dashboard",
@@ -58,17 +60,19 @@
     "url": "https://api-dashboard.henchman.io/health",
     "icon": "https://henchman.io/favicon.ico",
     "slug": "dashboard-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 400,
-    "timeDay": 396,
-    "timeWeek": 406,
-    "timeMonth": 361,
-    "timeYear": 383,
-    "dailyMinutesDown": {}
+    "timeDay": 416,
+    "timeWeek": 410,
+    "timeMonth": 364,
+    "timeYear": 384,
+    "dailyMinutesDown": {
+      "2024-02-28": 0
+    }
   }
 ]
