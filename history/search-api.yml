@@ -1,7 +1,7 @@
 url: https://api-search.henchman.io/health
-status: down
-code: 502
-responseTime: 590
-lastUpdated: 2024-02-28T13:21:40.806Z
+status: up
+code: 200
+responseTime: 435
+lastUpdated: 2024-02-28T13:28:10.064Z
 startTime: 2022-10-20T12:50:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
