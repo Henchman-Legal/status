@@ -26,9 +26,9 @@
 }
 
 body {
-    background-image: url(background.svg);
-    background-position: center 100px;
-    background-repeat: no-repeat;
+    background-image: url(background.svg) !important;
+    background-position: center 100px !important;
+    background-repeat: no-repeat !important;
 }
 
 header {
