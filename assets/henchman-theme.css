@@ -4,8 +4,8 @@
     --nav-background-color: rgb(11, 18, 24);
     --nav-border-bottom-color: rgb(43, 54, 64);
     --nav-current-border-bottom-color: #1abc9c;
-    --card-background-color: #ffffff;
-    --card-border-color: #ffffff;
+    --card-background-color: #2b3640;
+    --card-border-color: #2b3640;
     --up-border-left-color: #20bf6b;
     --down-border-left-color: #eb3b5a;
     --down-background-color: #ffd0d2;
@@ -29,4 +29,8 @@ body {
     background-image: url(background.svg);
     background-position: center 100px;
     background-repeat: no-repeat;
+}
+
+header {
+    height: 71px
 }
