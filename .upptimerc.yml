@@ -26,6 +26,7 @@ sites:
       - wtr7
   - name: Dashboard (eu)
     url: https://dashboard.henchman.io/
+    icon: https://henchman.io/favicon.ico
     method: GET
     assignees:
       - g-jgreen
@@ -60,6 +61,7 @@ sites:
       - wtr7
   - name: Dashboard (us)
     url: https://dashboard.us.henchman.io/
+    icon: https://henchman.io/favicon.ico
     method: GET
     assignees:
       - g-jgreen
@@ -76,7 +78,7 @@ sites:
 status-website:
   cname: status.henchman.io
   # baseUrl: /status
-  logoUrl: https://henchman.io/uploads/HM-SVG-High-logo-white-1.svg
+  logoUrl: https://henchman.io/favicon.ico
   name: ''
   introTitle: ''
   introMessage: ''
