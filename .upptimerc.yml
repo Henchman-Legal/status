@@ -3,33 +3,75 @@ owner: Henchman-Legal
 repo: status # The name of this repository
 
 sites:
-  - name: Add-in
+  - name: Add-in (eu)
     url: https://add-in.henchman.io
     icon: https://henchman.io/favicon.ico
     method: GET
     assignees: 
       - g-jgreen
       - wtr7
-  - name: Search API
-    url: https://api-search.henchman.io/health
+  - name: Authentication API (eu)
+    url: https://api-auth.eu.henchman.io/health
     icon: https://henchman.io/favicon.ico
     method: GET
     assignees:
       - g-jgreen
       - wtr7
-  - name: Dashboard
+  - name: Search API (eu)
+    url: https://api-search.eu.henchman.io/health
+    icon: https://henchman.io/favicon.ico
+    method: GET
+    assignees:
+      - g-jgreen
+      - wtr7
+  - name: Dashboard (eu)
     url: https://dashboard.henchman.io/
     method: GET
     assignees:
       - g-jgreen
       - wtr7
-  - name: Dashboard API
-    url: https://api-dashboard.henchman.io/health
+  - name: Dashboard API (eu)
+    url: https://api-dashboard.eu.henchman.io/health
     icon: https://henchman.io/favicon.ico
     method: GET
     assignees:
       - g-jgreen
       - wtr7
+  - name: Add-in (us)
+    url: https://add-in.us.henchman.io
+    icon: https://henchman.io/favicon.ico
+    method: GET
+    assignees: 
+      - g-jgreen
+      - wtr7
+  - name: Authentication API (us)
+    url: https://api-auth.us.henchman.io/health
+    icon: https://henchman.io/favicon.ico
+    method: GET
+    assignees:
+      - g-jgreen
+      - wtr7
+  - name: Search API (us)
+    url: https://api-search.us.henchman.io/health
+    icon: https://henchman.io/favicon.ico
+    method: GET
+    assignees:
+      - g-jgreen
+      - wtr7
+  - name: Dashboard (us)
+    url: https://dashboard.us.henchman.io/
+    method: GET
+    assignees:
+      - g-jgreen
+      - wtr7
+  - name: Dashboard API (us)
+    url: https://api-dashboard.us.henchman.io/health
+    icon: https://henchman.io/favicon.ico
+    method: GET
+    assignees:
+      - g-jgreen
+      - wtr7
+  
 
 status-website:
   cname: status.henchman.io
