@@ -89,10 +89,10 @@ status-website:
   cname: status.henchman.io
   # baseUrl: /status
   logoUrl: https://henchman.io/uploads/logos/henchman.svg
+  themeUrl: https://status.henchman.io/henchman-theme.css
   name: ''
   introTitle: ''
   introMessage: ''
-  theme: light
 
 workflowSchedule:
   graphs: "0 0 * * *"
