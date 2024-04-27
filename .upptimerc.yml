@@ -78,7 +78,7 @@ sites:
 status-website:
   cname: status.henchman.io
   # baseUrl: /status
-  logoUrl: https://henchman.io/assets/favicons/favicon-32x32.png
+  logoUrl: https://henchman.io/uploads/logos/henchman.svg
   name: ''
   introTitle: ''
   introMessage: ''
