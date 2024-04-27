@@ -106,4 +106,4 @@ workflowSchedule:
 i18n:
   footer: ''
 
-user-agent: g-jgreen ## Maybe we need to create a dedicated Henchman user account
+user-agent: GuusDeGraeve
