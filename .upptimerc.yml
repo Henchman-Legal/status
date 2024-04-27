@@ -8,71 +8,81 @@ sites:
     icon: https://henchman.io/assets/favicons/favicon-32x32.png
     method: GET
     assignees: 
-      - g-jgreen
+      - GuusDeGraeve
       - wtr7
+      - sneljo1
   - name: Authentication API (eu)
     url: https://api-auth.eu.henchman.io/health
     icon: https://henchman.io/assets/favicons/favicon-32x32.png
     method: GET
     assignees:
-      - g-jgreen
+      - GuusDeGraeve
       - wtr7
+      - sneljo1
   - name: Search API (eu)
     url: https://api-search.eu.henchman.io/health
     icon: https://henchman.io/assets/favicons/favicon-32x32.png
     method: GET
     assignees:
-      - g-jgreen
+      - GuusDeGraeve
       - wtr7
+      - sneljo1
   - name: Dashboard (eu)
     url: https://dashboard.henchman.io/
     icon: https://henchman.io/assets/favicons/favicon-32x32.png
     method: GET
     assignees:
-      - g-jgreen
+      - GuusDeGraeve
       - wtr7
+      - sneljo1
   - name: Dashboard API (eu)
     url: https://api-dashboard.eu.henchman.io/health
     icon: https://henchman.io/assets/favicons/favicon-32x32.png
     method: GET
     assignees:
-      - g-jgreen
+      - GuusDeGraeve
       - wtr7
+      - sneljo1
   - name: Add-in (us)
     url: https://add-in.us.henchman.io
     icon: https://henchman.io/assets/favicons/favicon-32x32.png
     method: GET
     assignees: 
-      - g-jgreen
+      - GuusDeGraeve
       - wtr7
+      - sneljo1
   - name: Authentication API (us)
     url: https://api-auth.us.henchman.io/health
     icon: https://henchman.io/assets/favicons/favicon-32x32.png
     method: GET
     assignees:
-      - g-jgreen
+      - GuusDeGraeve
       - wtr7
+      - sneljo1
   - name: Search API (us)
     url: https://api-search.us.henchman.io/health
     icon: https://henchman.io/assets/favicons/favicon-32x32.png
     method: GET
     assignees:
-      - g-jgreen
+      - GuusDeGraeve
       - wtr7
+      - sneljo1
   - name: Dashboard (us)
     url: https://dashboard.us.henchman.io/
     icon: https://henchman.io/assets/favicons/favicon-32x32.png
     method: GET
     assignees:
-      - g-jgreen
+      - GuusDeGraeve
       - wtr7
+      - sneljo1
   - name: Dashboard API (us)
     url: https://api-dashboard.us.henchman.io/health
     icon: https://henchman.io/assets/favicons/favicon-32x32.png
     method: GET
     assignees:
-      - g-jgreen
+      - GuusDeGraeve
       - wtr7
+      - sneljo1
   
 
 status-website:
