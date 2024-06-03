@@ -22,19 +22,19 @@
     "url": "https://api-auth.eu.henchman.io/health",
     "icon": "https://henchman.io/assets/favicons/favicon-32x32.png",
     "slug": "authentication-api-eu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 387,
-    "timeDay": 389,
-    "timeWeek": 415,
-    "timeMonth": 374,
-    "timeYear": 387,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 394,
+    "timeDay": 493,
+    "timeWeek": 447,
+    "timeMonth": 384,
+    "timeYear": 394,
     "dailyMinutesDown": {
-      "2024-06-03": 0
+      "2024-06-03": 7
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://api-search.eu.henchman.io/health",
     "icon": "https://henchman.io/assets/favicons/favicon-32x32.png",
     "slug": "search-api-eu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 415,
-    "timeDay": 384,
-    "timeWeek": 379,
-    "timeMonth": 397,
-    "timeYear": 415,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 416,
+    "timeDay": 407,
+    "timeWeek": 387,
+    "timeMonth": 399,
+    "timeYear": 416,
     "dailyMinutesDown": {
-      "2024-06-03": 0
+      "2024-06-03": 7
     }
   },
   {
