@@ -136,19 +136,19 @@
     "url": "https://api-search.us.henchman.io/health",
     "icon": "https://henchman.io/assets/favicons/favicon-32x32.png",
     "slug": "search-api-us",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 201,
-    "timeDay": 122,
-    "timeWeek": 171,
-    "timeMonth": 207,
-    "timeYear": 201,
+    "time": 203,
+    "timeDay": 251,
+    "timeWeek": 197,
+    "timeMonth": 213,
+    "timeYear": 203,
     "dailyMinutesDown": {
-      "2024-08-11": 0
+      "2024-08-11": 5
     }
   },
   {
