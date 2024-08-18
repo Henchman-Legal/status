@@ -4,19 +4,19 @@
     "url": "https://add-in.henchman.io",
     "icon": "https://henchman.io/assets/favicons/favicon-32x32.png",
     "slug": "add-in-eu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 571,
-    "timeDay": 532,
-    "timeWeek": 529,
-    "timeMonth": 559,
+    "timeDay": 565,
+    "timeWeek": 539,
+    "timeMonth": 561,
     "timeYear": 571,
     "dailyMinutesDown": {
-      "2024-08-18": 0
+      "2024-08-18": 16
     }
   },
   {
@@ -64,9 +64,9 @@
     "url": "https://dashboard.henchman.io/",
     "icon": "https://henchman.io/assets/favicons/favicon-32x32.png",
     "slug": "dashboard-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -75,7 +75,9 @@
     "timeWeek": 490,
     "timeMonth": 510,
     "timeYear": 553,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-18": 0
+    }
   },
   {
     "name": "Dashboard API (eu)",
