@@ -4,9 +4,9 @@
     "url": "https://add-in.henchman.io",
     "icon": "https://henchman.io/assets/favicons/favicon-32x32.png",
     "slug": "add-in-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 529,
     "timeMonth": 559,
     "timeYear": 571,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-18": 0
+    }
   },
   {
     "name": "Authentication API (eu)",
@@ -144,7 +146,7 @@
     "uptimeYear": "100.00%",
     "time": 203,
     "timeDay": 132,
-    "timeWeek": 239,
+    "timeWeek": 215,
     "timeMonth": 214,
     "timeYear": 203,
     "dailyMinutesDown": {}
