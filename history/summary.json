@@ -64,19 +64,19 @@
     "url": "https://dashboard.henchman.io/",
     "icon": "https://henchman.io/assets/favicons/favicon-32x32.png",
     "slug": "dashboard-eu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 553,
-    "timeDay": 395,
-    "timeWeek": 490,
-    "timeMonth": 510,
-    "timeYear": 553,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 552,
+    "timeDay": 386,
+    "timeWeek": 474,
+    "timeMonth": 506,
+    "timeYear": 552,
     "dailyMinutesDown": {
-      "2024-08-18": 0
+      "2024-08-18": 10
     }
   },
   {
