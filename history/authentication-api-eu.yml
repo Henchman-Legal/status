@@ -1,7 +1,7 @@
 url: https://api-auth.eu.henchman.io/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-22T08:47:32.287Z
+status: up
+code: 200
+responseTime: 382
+lastUpdated: 2024-08-22T08:54:05.430Z
 startTime: 2024-04-27T11:42:04.244Z
 generator: Upptime <https://github.com/upptime/upptime>
