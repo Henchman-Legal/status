@@ -3,8 +3,24 @@ owner: Henchman-Legal
 repo: status # The name of this repository
 
 sites:
+  - name: Add-in (global portal)
+    url: https://add-in.lexiscreatedms.com
+    icon: https://henchman.io/assets/favicons/favicon-32x32.png
+    method: GET
+    assignees: 
+      - GuusDeGraeve
+      - wtr7
+      - sneljo1
+  - name: Dashboard (global portal)
+    url: https://dashboard.lexiscreatedms.com/
+    icon: https://henchman.io/assets/favicons/favicon-32x32.png
+    method: GET
+    assignees:
+      - GuusDeGraeve
+      - wtr7
+      - sneljo1
   - name: Add-in (eu)
-    url: https://add-in.henchman.io
+    url: https://add-in.eu.lexiscreatedms.com
     icon: https://henchman.io/assets/favicons/favicon-32x32.png
     method: GET
     assignees: 
@@ -12,7 +28,7 @@ sites:
       - wtr7
       - sneljo1
   - name: Authentication API (eu)
-    url: https://api-auth.eu.henchman.io/health
+    url: https://api-auth.eu.lexiscreatedms.com/health
     icon: https://henchman.io/assets/favicons/favicon-32x32.png
     method: GET
     assignees:
@@ -20,7 +36,7 @@ sites:
       - wtr7
       - sneljo1
   - name: Search API (eu)
-    url: https://api-search.eu.henchman.io/health
+    url: https://api-search.eu.lexiscreatedms.com/health
     icon: https://henchman.io/assets/favicons/favicon-32x32.png
     method: GET
     assignees:
@@ -28,7 +44,7 @@ sites:
       - wtr7
       - sneljo1
   - name: Dashboard (eu)
-    url: https://dashboard.henchman.io/
+    url: https://dashboard.eu.lexiscreatedms.com/
     icon: https://henchman.io/assets/favicons/favicon-32x32.png
     method: GET
     assignees:
@@ -36,7 +52,7 @@ sites:
       - wtr7
       - sneljo1
   - name: Dashboard API (eu)
-    url: https://api-dashboard.eu.henchman.io/health
+    url: https://api-dashboard.eu.lexiscreatedms.com/health
     icon: https://henchman.io/assets/favicons/favicon-32x32.png
     method: GET
     assignees:
@@ -44,7 +60,7 @@ sites:
       - wtr7
       - sneljo1
   - name: Add-in (us)
-    url: https://add-in.us.henchman.io
+    url: https://add-in.us.lexiscreatedms.com
     icon: https://henchman.io/assets/favicons/favicon-32x32.png
     method: GET
     assignees: 
@@ -52,7 +68,7 @@ sites:
       - wtr7
       - sneljo1
   - name: Authentication API (us)
-    url: https://api-auth.us.henchman.io/health
+    url: https://api-auth.us.lexiscreatedms.com/health
     icon: https://henchman.io/assets/favicons/favicon-32x32.png
     method: GET
     assignees:
@@ -60,7 +76,7 @@ sites:
       - wtr7
       - sneljo1
   - name: Search API (us)
-    url: https://api-search.us.henchman.io/health
+    url: https://api-search.us.lexiscreatedms.com/health
     icon: https://henchman.io/assets/favicons/favicon-32x32.png
     method: GET
     assignees:
@@ -68,7 +84,7 @@ sites:
       - wtr7
       - sneljo1
   - name: Dashboard (us)
-    url: https://dashboard.us.henchman.io/
+    url: https://dashboard.us.lexiscreatedms.com/
     icon: https://henchman.io/assets/favicons/favicon-32x32.png
     method: GET
     assignees:
@@ -76,7 +92,87 @@ sites:
       - wtr7
       - sneljo1
   - name: Dashboard API (us)
-    url: https://api-dashboard.us.henchman.io/health
+    url: https://api-dashboard.us.lexiscreatedms.com/health
+    icon: https://henchman.io/assets/favicons/favicon-32x32.png
+    method: GET
+    assignees:
+      - GuusDeGraeve
+      - wtr7
+      - sneljo1
+  - name: Add-in (ca)
+    url: https://add-in.ca.lexiscreatedms.com
+    icon: https://henchman.io/assets/favicons/favicon-32x32.png
+    method: GET
+    assignees: 
+      - GuusDeGraeve
+      - wtr7
+      - sneljo1
+  - name: Authentication API (ca)
+    url: https://api-auth.ca.lexiscreatedms.com/health
+    icon: https://henchman.io/assets/favicons/favicon-32x32.png
+    method: GET
+    assignees:
+      - GuusDeGraeve
+      - wtr7
+      - sneljo1
+  - name: Search API (ca)
+    url: https://api-search.ca.lexiscreatedms.com/health
+    icon: https://henchman.io/assets/favicons/favicon-32x32.png
+    method: GET
+    assignees:
+      - GuusDeGraeve
+      - wtr7
+      - sneljo1
+  - name: Dashboard (ca)
+    url: https://dashboard.ca.lexiscreatedms.com/
+    icon: https://henchman.io/assets/favicons/favicon-32x32.png
+    method: GET
+    assignees:
+      - GuusDeGraeve
+      - wtr7
+      - sneljo1
+  - name: Dashboard API (ca)
+    url: https://api-dashboard.ca.lexiscreatedms.com/health
+    icon: https://henchman.io/assets/favicons/favicon-32x32.png
+    method: GET
+    assignees:
+      - GuusDeGraeve
+      - wtr7
+      - sneljo1
+  - name: Add-in (sa)
+    url: https://add-in.sa.lexiscreatedms.com
+    icon: https://henchman.io/assets/favicons/favicon-32x32.png
+    method: GET
+    assignees: 
+      - GuusDeGraeve
+      - wtr7
+      - sneljo1
+  - name: Authentisation API (sa)
+    url: https://api-auth.sa.lexiscreatedms.com/health
+    icon: https://henchman.io/assets/favicons/favicon-32x32.png
+    method: GET
+    assignees:
+      - GuusDeGraeve
+      - wtr7
+      - sneljo1
+  - name: Search API (sa)
+    url: https://api-search.sa.lexiscreatedms.com/health
+    icon: https://henchman.io/assets/favicons/favicon-32x32.png
+    method: GET
+    assignees:
+      - GuusDeGraeve
+      - wtr7
+      - sneljo1
+  - name: Dashboard (sa)
+    url: https://dashboard.sa.lexiscreatedms.com/
+    icon: https://henchman.io/assets/favicons/favicon-32x32.png
+    method: GET
+    assignees:
+      - GuusDeGraeve
+      - wtr7
+      - sneljo1
+  - name: Dashboard API (sa)
+    url: https://api-dashboard.sa.lexiscreatedms.com/health
     icon: https://henchman.io/assets/favicons/favicon-32x32.png
     method: GET
     assignees:
