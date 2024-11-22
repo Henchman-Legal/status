@@ -76,19 +76,19 @@
     "url": "https://api-search.eu.lexiscreatedms.com/health",
     "icon": "https://henchman.io/assets/favicons/favicon-32x32.png",
     "slug": "search-api-eu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 443,
-    "timeDay": 286,
-    "timeWeek": 358,
-    "timeMonth": 381,
+    "timeDay": 353,
+    "timeWeek": 365,
+    "timeMonth": 382,
     "timeYear": 443,
     "dailyMinutesDown": {
-      "2024-11-22": 0
+      "2024-11-22": 4
     }
   },
   {
@@ -114,19 +114,19 @@
     "url": "https://api-dashboard.eu.lexiscreatedms.com/health",
     "icon": "https://henchman.io/assets/favicons/favicon-32x32.png",
     "slug": "dashboard-api-eu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 410,
-    "timeDay": 287,
-    "timeWeek": 330,
-    "timeMonth": 365,
+    "timeDay": 278,
+    "timeWeek": 323,
+    "timeMonth": 362,
     "timeYear": 410,
     "dailyMinutesDown": {
-      "2024-11-22": 0
+      "2024-11-22": 4
     }
   },
   {
