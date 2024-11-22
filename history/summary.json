@@ -76,9 +76,9 @@
     "url": "https://api-search.eu.lexiscreatedms.com/health",
     "icon": "https://henchman.io/assets/favicons/favicon-32x32.png",
     "slug": "search-api-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 358,
     "timeMonth": 381,
     "timeYear": 443,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-22": 0
+    }
   },
   {
     "name": "Dashboard (eu)",
@@ -112,9 +114,9 @@
     "url": "https://api-dashboard.eu.lexiscreatedms.com/health",
     "icon": "https://henchman.io/assets/favicons/favicon-32x32.png",
     "slug": "dashboard-api-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,7 +125,9 @@
     "timeWeek": 330,
     "timeMonth": 365,
     "timeYear": 410,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-22": 0
+    }
   },
   {
     "name": "Add-in (us)",
