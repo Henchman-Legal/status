@@ -58,18 +58,20 @@
     "url": "https://api-auth.eu.lexiscreatedms.com/health",
     "icon": "https://henchman.io/assets/favicons/favicon-32x32.png",
     "slug": "authentication-api-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 431,
-    "timeDay": 469,
-    "timeWeek": 407,
-    "timeMonth": 390,
-    "timeYear": 431,
-    "dailyMinutesDown": {}
+    "time": 430,
+    "timeDay": 383,
+    "timeWeek": 393,
+    "timeMonth": 387,
+    "timeYear": 430,
+    "dailyMinutesDown": {
+      "2024-12-19": 0
+    }
   },
   {
     "name": "Search API (eu)",
