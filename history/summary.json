@@ -152,36 +152,40 @@
     "url": "https://api-auth.us.lexiscreatedms.com/health",
     "icon": "https://henchman.io/assets/favicons/favicon-32x32.png",
     "slug": "authentication-api-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 159,
-    "timeWeek": 128,
-    "timeMonth": 159,
+    "timeDay": 155,
+    "timeWeek": 130,
+    "timeMonth": 158,
     "timeYear": 204,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-15": 0
+    }
   },
   {
     "name": "Search API (us)",
     "url": "https://api-search.us.lexiscreatedms.com/health",
     "icon": "https://henchman.io/assets/favicons/favicon-32x32.png",
     "slug": "search-api-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 192,
-    "timeDay": 170,
-    "timeWeek": 128,
-    "timeMonth": 163,
+    "timeDay": 152,
+    "timeWeek": 129,
+    "timeMonth": 162,
     "timeYear": 192,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-15": 0
+    }
   },
   {
     "name": "Dashboard (us)",
@@ -206,18 +210,20 @@
     "url": "https://api-dashboard.us.lexiscreatedms.com/health",
     "icon": "https://henchman.io/assets/favicons/favicon-32x32.png",
     "slug": "dashboard-api-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 173,
-    "timeDay": 107,
-    "timeWeek": 150,
-    "timeMonth": 164,
+    "timeDay": 110,
+    "timeWeek": 146,
+    "timeMonth": 162,
     "timeYear": 173,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-15": 0
+    }
   },
   {
     "name": "Add-in (ca)",
