@@ -152,19 +152,19 @@
     "url": "https://api-auth.us.lexiscreatedms.com/health",
     "icon": "https://henchman.io/assets/favicons/favicon-32x32.png",
     "slug": "authentication-api-us",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "70.63%",
+    "uptimeWeek": "95.80%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "99.75%",
     "time": 204,
-    "timeDay": 155,
-    "timeWeek": 130,
-    "timeMonth": 158,
+    "timeDay": 193,
+    "timeWeek": 142,
+    "timeMonth": 161,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2025-02-15": 0
+      "2025-02-15": 423
     }
   },
   {
@@ -172,19 +172,19 @@
     "url": "https://api-search.us.lexiscreatedms.com/health",
     "icon": "https://henchman.io/assets/favicons/favicon-32x32.png",
     "slug": "search-api-us",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "70.63%",
+    "uptimeWeek": "95.80%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "99.75%",
     "time": 192,
-    "timeDay": 152,
-    "timeWeek": 129,
-    "timeMonth": 162,
+    "timeDay": 202,
+    "timeWeek": 144,
+    "timeMonth": 165,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2025-02-15": 0
+      "2025-02-15": 423
     }
   },
   {
@@ -210,19 +210,19 @@
     "url": "https://api-dashboard.us.lexiscreatedms.com/health",
     "icon": "https://henchman.io/assets/favicons/favicon-32x32.png",
     "slug": "dashboard-api-us",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 110,
-    "timeWeek": 146,
-    "timeMonth": 162,
-    "timeYear": 173,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "70.63%",
+    "uptimeWeek": "95.80%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "99.75%",
+    "time": 174,
+    "timeDay": 220,
+    "timeWeek": 173,
+    "timeMonth": 170,
+    "timeYear": 174,
     "dailyMinutesDown": {
-      "2025-02-15": 0
+      "2025-02-15": 423
     }
   },
   {
