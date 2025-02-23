@@ -119,9 +119,9 @@
     "slug": "dashboard-api-eu",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "83.71%",
-    "uptimeWeek": "97.67%",
-    "uptimeMonth": "99.46%",
+    "uptimeDay": "84.16%",
+    "uptimeWeek": "97.74%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "99.87%",
     "time": 391,
     "timeDay": 366,
@@ -129,7 +129,7 @@
     "timeMonth": 347,
     "timeYear": 391,
     "dailyMinutesDown": {
-      "2025-02-22": 234,
+      "2025-02-22": 228,
       "2024-11-22": 4
     }
   },
@@ -158,9 +158,9 @@
     "slug": "authentication-api-us",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.02%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.03%",
     "uptimeYear": "99.76%",
     "time": 201,
     "timeDay": 124,
@@ -168,7 +168,6 @@
     "timeMonth": 159,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2025-02-22": 6,
       "2025-02-15": 423
     }
   },
@@ -179,9 +178,9 @@
     "slug": "search-api-us",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.02%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.03%",
     "uptimeYear": "99.76%",
     "time": 189,
     "timeDay": 125,
@@ -189,7 +188,6 @@
     "timeMonth": 154,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2025-02-22": 6,
       "2025-02-15": 423
     }
   },
@@ -218,9 +216,9 @@
     "slug": "dashboard-api-us",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.02%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.03%",
     "uptimeYear": "99.76%",
     "time": 176,
     "timeDay": 115,
@@ -228,7 +226,6 @@
     "timeMonth": 192,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2025-02-22": 6,
       "2025-02-15": 423
     }
   },
@@ -256,18 +253,17 @@
     "icon": "https://henchman.io/assets/favicons/favicon-32x32.png",
     "slug": "authentication-api-ca",
     "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "97.37%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.44%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.86%",
     "time": 200,
     "timeDay": 187,
     "timeWeek": 210,
     "timeMonth": 202,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2025-02-22": 6,
       "2025-02-19": 258
     }
   },
@@ -277,18 +273,17 @@
     "icon": "https://henchman.io/assets/favicons/favicon-32x32.png",
     "slug": "search-api-ca",
     "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "97.37%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.44%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.86%",
     "time": 193,
     "timeDay": 158,
     "timeWeek": 172,
     "timeMonth": 183,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2025-02-22": 6,
       "2025-02-19": 258
     }
   },
@@ -317,9 +312,9 @@
     "slug": "dashboard-api-ca",
     "status": "up",
     "uptime": "99.14%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "84.70%",
-    "uptimeMonth": "96.48%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "84.77%",
+    "uptimeMonth": "96.49%",
     "uptimeYear": "99.14%",
     "time": 194,
     "timeDay": 153,
@@ -327,7 +322,6 @@
     "timeMonth": 198,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2025-02-22": 6,
       "2025-02-20": 676,
       "2025-02-19": 859
     }
@@ -357,18 +351,16 @@
     "slug": "authentisation-api-sa",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 771,
     "timeDay": 711,
     "timeWeek": 729,
     "timeMonth": 756,
     "timeYear": 771,
-    "dailyMinutesDown": {
-      "2025-02-22": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Search API (sa)",
@@ -377,18 +369,16 @@
     "slug": "search-api-sa",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 770,
     "timeDay": 717,
     "timeWeek": 728,
     "timeMonth": 762,
     "timeYear": 770,
-    "dailyMinutesDown": {
-      "2025-02-22": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dashboard (sa)",
@@ -415,17 +405,15 @@
     "slug": "dashboard-api-sa",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 771,
     "timeDay": 742,
     "timeWeek": 756,
     "timeMonth": 765,
     "timeYear": 771,
-    "dailyMinutesDown": {
-      "2025-02-22": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
