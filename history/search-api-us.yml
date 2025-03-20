@@ -1,7 +1,7 @@
 url: https://api-search.us.lexiscreatedms.com/health
-status: down
-code: 403
-responseTime: 119
-lastUpdated: 2025-03-20T18:48:20.856Z
+status: up
+code: 200
+responseTime: 251
+lastUpdated: 2025-03-20T18:54:53.816Z
 startTime: 2024-10-21T12:59:53.007Z
 generator: Upptime <https://github.com/upptime/upptime>
