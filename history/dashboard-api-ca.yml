@@ -1,7 +1,7 @@
 url: https://api-dashboard.ca.lexiscreatedms.com/health
-status: up
-code: 200
-responseTime: 145
-lastUpdated: 2025-05-03T11:46:57.468Z
+status: down
+code: 403
+responseTime: 307
+lastUpdated: 2025-05-03T13:42:12.307Z
 startTime: 2024-10-21T13:00:00.438Z
 generator: Upptime <https://github.com/upptime/upptime>
